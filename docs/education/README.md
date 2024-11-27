@@ -22,8 +22,8 @@ contributors: false
 
 **Lectures Taken**:
  - Neurobiology:
-   - [Polymenidou Lab](https://www.polymenidoulab.com/) - [Detail](https://www.ifi.uzh.ch/en/aiml/teaching/Lecture-Deep-Learning.html), [Report](docs/.vuepress/public/projects/BIO328_report_Nr6.pdf)
-   - [Neuhauss Lab](https://www.mls.uzh.ch/en/research/neuhauss/research.html) - [Detail](https://www.ifi.uzh.ch/en/aiml/teaching/Lecture-Deep-Learning.html), [Report]()
+   - Polymenidou Lab - [Detail](https://www.ifi.uzh.ch/en/aiml/teaching/Lecture-Deep-Learning.html), [Report](docs/.vuepress/public/projects/BIO328_report_Nr6.pdf)
+   - Neuhauss Lab - [Detail](https://www.ifi.uzh.ch/en/aiml/teaching/Lecture-Deep-Learning.html), [Report]()
  - Integrated knowledge in Biology - [Link](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=EN&sap-ui-language=EN#/details/2024/003/SM/50315967/50000008/Faculty%2520of%2520Science/51030723/Master%2520of%2520Science%2520Faculty%2520of%2520Science%2520(90)%2520(2021)/51037175/Biology)
  - Systems Neuroscience - [Link](https://tilde.ini.uzh.ch/~kiper/system_neurosci.html)
  - Comparative Behavioural Neuroscience - [Link](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=EN&sap-ui-language=EN#/details/2023/004/SM/50931667/50000008/Faculty%2520of%2520Science/51030723/Master%2520of%2520Science%2520Faculty%2520of%2520Science%2520(90)%2520(2021)/51037175/Biology)
