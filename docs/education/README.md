@@ -31,7 +31,8 @@ contributors: false
  - Clinical Neuroscience - [Link](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=EN&sap-ui-language=EN#/details/2024/004/SM/51212261/50000008/Faculty%2520of%2520Science/51030723/Master%2520of%2520Science%2520Faculty%2520of%2520Science%2520(90)%2520(2021)/51037175/Biology)
 
 **Conferences**:
-Sleep Europe Congress: The 27th Conference of the European Sleep Research Society - [Poster](docs/.vuepress/public/projects/Poster_StimKids_ESRS_2024.pdf)        
+
+  - Sleep Europe Congress: The 27th Conference of the European Sleep Research Society - [Poster](docs/.vuepress/public/projects/Poster_StimKids_ESRS_2024.pdf)        
 Poster sessions. J Sleep Res, 33: e14291. https://doi.org/10.1111/jsr.14291
 Seville, Spain 24 – 27 September 2024
 
@@ -58,7 +59,8 @@ Seville, Spain 24 – 27 September 2024
  - English for Professional Communication
 
 **Conferences**:
-6th Saint Petersburg Winter Workshop on Experimental Studies of Speech and Language: Night Whites 2022 - [Link](https://publications.hse.ru/en/chapters/971099018)        
+
+  - 6th Saint Petersburg Winter Workshop on Experimental Studies of Speech and Language: Night Whites 2022 - [Link](https://publications.hse.ru/en/chapters/971099018)        
 St Petersburg, Russia 15 - 16 December 2022
 
 ## St Petersburg University - BSc in Biology (Neurobiology)
@@ -71,14 +73,15 @@ St Petersburg, Russia 15 - 16 December 2022
 **Main Lectures**:
  - **Neurobiology**: Behavioural Biology and Higher Nervous Activity, Comprehensive Practicum in Physiology of Higher Nervous Activity and
 Psychophysiology, Morphology of Central Nervous System, Neurophysiology, Behavioural Neuroendocrinology, Psychology, Psychogenetics: Molecular Basis, Psychophysiology, Psychophysiology of Individual Differences, Physiology of Sensory Systems, Human and Animal Physiology, Functional Neuromorphology, Electrophysiology
+ - **General Biology**: Introduction to Biology, Anthropogenic Transformation of the Biosphere, Cell Biology, Developmental Biology, Biophysics, Virology, Genetic Engineering and Biotechnology, Histology, Immunology, Methods of Imaging of Biological Structures, Microbiology, Molecular Biology, Molecular Phylogeny and Genosystematics, Molecular Evolution of Biosystems, General Genetics, Human Anatomy with Fundamentals of Anthropogenesis
  - **Botanics**: Algology and Mycology, Botany: Part 1 and 2, 
  - **Zoology**: Invertebrate Zoology: Part 1 and 2,  Vertebrate Zoology, Introduction to Molecular Neurophysiology, Parasitism: the World in Another Dimension, Animal Behavior and How to Study It
  - **Chemistry**: Principles of Chemistry, General and Inorganic Chemistry, Organic Chemistry, Analytical Chemistry, Biochemistry,  
  - **Languages**: English, English for Professional Purposes, German
  - **Mathematics**: Linear Algebra, Probability and Statistics, Discrete Mathematics, Mathematical Analysis, Fundamentals of Biostatistics, Fundamentals of Applied Informatics
- - **General Biology**: Introduction to Biology, Anthropogenic Transformation of the Biosphere, Cell Biology, Developmental Biology, Biophysics, Virology, Genetic Engineering and Biotechnology, Histology, Immunology, Methods of Imaging of Biological Structures, Microbiology, Molecular Biology, Molecular Phylogeny and Genosystematics, Molecular Evolution of Biosystems, General Genetics, Human Anatomy with Fundamentals of Anthropogenesis
 
 **Conferences**:
+
 
 
  ## Honors and Awards
