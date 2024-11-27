@@ -17,19 +17,23 @@ contributors: false
 **Feb. 2023 - Nov. 2024**
 
 **Master Thesis**:  Auditory evoked potentials elicited by closed-loop stimulation during sleep in children and adults - [Detail](https://linan1109.github.io/projects/#explainability-method-for-recommender-systems) 
+
 **GPA**: 5.3/6.0
+
 **Lectures Taken**:
  - Neurobiology:
-   - [Polymenidou Lab](https://www.polymenidoulab.com/) - [Detail(https://www.ifi.uzh.ch/en/aiml/teaching/Lecture-Deep-Learning.html), Report(docs/.vuepress/public/projects/BIO328_report_Nr6.pdf)]
-   - [Neuhauss Lab](https://www.mls.uzh.ch/en/research/neuhauss/research.html) - [Detail(https://www.ifi.uzh.ch/en/aiml/teaching/Lecture-Deep-Learning.html), Report ()
+   - [Polymenidou Lab](https://www.polymenidoulab.com/) - [Detail](https://www.ifi.uzh.ch/en/aiml/teaching/Lecture-Deep-Learning.html), [Report](docs/.vuepress/public/projects/BIO328_report_Nr6.pdf)
+   - [Neuhauss Lab](https://www.mls.uzh.ch/en/research/neuhauss/research.html) - [Detail](https://www.ifi.uzh.ch/en/aiml/teaching/Lecture-Deep-Learning.html), [Report]()
  - Integrated knowledge in Biology - [Link](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=EN&sap-ui-language=EN#/details/2024/003/SM/50315967/50000008/Faculty%2520of%2520Science/51030723/Master%2520of%2520Science%2520Faculty%2520of%2520Science%2520(90)%2520(2021)/51037175/Biology)
  - Systems Neuroscience - [Link](https://tilde.ini.uzh.ch/~kiper/system_neurosci.html)
  - Comparative Behavioural Neuroscience - [Link](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=EN&sap-ui-language=EN#/details/2023/004/SM/50931667/50000008/Faculty%2520of%2520Science/51030723/Master%2520of%2520Science%2520Faculty%2520of%2520Science%2520(90)%2520(2021)/51037175/Biology)
  - Behavioral Endocrinology - [Link](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=EN&sap-ui-language=EN#/details/2022/004/SM/50773190/50000008/Faculty%2520of%2520Science/51030723/Master%2520of%2520Science%2520Faculty%2520of%2520Science%2520(90)%2520(2021)/51037175/Biology)
  - Clinical Neuroscience - [Link](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=EN&sap-ui-language=EN#/details/2024/004/SM/51212261/50000008/Faculty%2520of%2520Science/51030723/Master%2520of%2520Science%2520Faculty%2520of%2520Science%2520(90)%2520(2021)/51037175/Biology)
+
 **Conferences**:
-Sleep Europe Congress: The 27th Conference of the European Sleep Research Society - [Poster](docs/.vuepress/public/projects/Poster_StimKids_ESRS_2024.pdf)             Seville, Spain 24 – 27 September 2024
+Sleep Europe Congress: The 27th Conference of the European Sleep Research Society - [Poster](docs/.vuepress/public/projects/Poster_StimKids_ESRS_2024.pdf)        
 Poster sessions. J Sleep Res, 33: e14291. https://doi.org/10.1111/jsr.14291
+Seville, Spain 24 – 27 September 2024
 
 ## University of Zurich - Invited Visiting Student (Medicine)
  **Apr. 2022 - Feb. 2023**
@@ -42,6 +46,7 @@ Poster sessions. J Sleep Res, 33: e14291. https://doi.org/10.1111/jsr.14291
  **Sep. 2021 - Apr. 2022**
  
 **GPA**: 4.75/5.0
+
 **Lectures Taken**:
  - Neuronal Communication: Mechanisms and Functions
  - Physiology of Age and Psychophysiology
@@ -51,14 +56,18 @@ Poster sessions. J Sleep Res, 33: e14291. https://doi.org/10.1111/jsr.14291
  - Introduction to Bioinformatics
  - Linear Models, Analysis of Variance and Regression Using R
  - English for Professional Communication
+
 **Conferences**:
-6th Saint Petersburg Winter Workshop on Experimental Studies of Speech and Language: Night Whites 2022 - [Link](https://publications.hse.ru/en/chapters/971099018)        St Petersburg, Russia 15 - 16 December 2022
+6th Saint Petersburg Winter Workshop on Experimental Studies of Speech and Language: Night Whites 2022 - [Link](https://publications.hse.ru/en/chapters/971099018)        
+St Petersburg, Russia 15 - 16 December 2022
 
 ## St Petersburg University - BSc in Biology (Neurobiology)
  **Sep. 2017 - Jun. 2021**
 
 **Bachelor Thesis**: Electrophysiological correlates of associative learning of novel native word forms in preschool children [Detail]()
+
 **GPA**: 4.6/5.0
+
 **Main Lectures**:
  - **Neurobiology**: Behavioural Biology and Higher Nervous Activity, Comprehensive Practicum in Physiology of Higher Nervous Activity and
 Psychophysiology, Morphology of Central Nervous System, Neurophysiology, Behavioural Neuroendocrinology, Psychology, Psychogenetics: Molecular Basis, Psychophysiology, Psychophysiology of Individual Differences, Physiology of Sensory Systems, Human and Animal Physiology, Functional Neuromorphology, Electrophysiology
@@ -68,6 +77,7 @@ Psychophysiology, Morphology of Central Nervous System, Neurophysiology, Behavio
  - **Languages**: English, English for Professional Purposes, German
  - **Mathematics**: Linear Algebra, Probability and Statistics, Discrete Mathematics, Mathematical Analysis, Fundamentals of Biostatistics, Fundamentals of Applied Informatics
  - **General Biology**: Introduction to Biology, Anthropogenic Transformation of the Biosphere, Cell Biology, Developmental Biology, Biophysics, Virology, Genetic Engineering and Biotechnology, Histology, Immunology, Methods of Imaging of Biological Structures, Microbiology, Molecular Biology, Molecular Phylogeny and Genosystematics, Molecular Evolution of Biosystems, General Genetics, Human Anatomy with Fundamentals of Anthropogenesis
+
 **Conferences**:
 
 
