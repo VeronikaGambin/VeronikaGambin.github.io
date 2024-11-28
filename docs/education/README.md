@@ -13,17 +13,20 @@ contributors: false
 ## University of Zurich - PhD in Neuroscience
 **Oct. 2024 - Current**
 
+ - Main Project: Validation of novel [driving simulation-based](https://my.matterport.com/show/?m=ntULEgy28cU) maintenance of wakefulness test (MWT) against the standart MWT in an OSA/cohort challenged bz CPAP-withdrawal - [Detail](https://veronikagambin.github.io/projects/#driving-simulation-based-maintenance-of-wakefulness-test-mwt)
+ - Additional project: AI-based microsleep detection during driving - [Detail](https://veronikagambin.github.io/projects/#ai-based-microsleep-detection-during-driving)
+
 ## University of Zurich - MSc in Biology (Neuroscience)
 **Feb. 2023 - Nov. 2024**
 
-**Master Thesis**:  Auditory evoked potentials elicited by closed-loop stimulation during sleep in children and adults - [Detail](https://linan1109.github.io/projects/#explainability-method-for-recommender-systems) 
+**Master Thesis**:  Auditory evoked potentials elicited by closed-loop stimulation during sleep in children and adults - [Detail](https://veronikagambin.github.io/projects/#auditory-evoked-potentials-elicited-by-closed-loop-stimulation-during-sleep-in-children-and-adults) 
 
 **GPA**: 5.3/6.0
 
 **Lectures Taken**:
  - Neurobiology:
-   - ALS markers in human neural cell culture - [Detail](https://www.ifi.uzh.ch/en/aiml/teaching/Lecture-Deep-Learning.html) , [Report](https://veronikagambin.github.io/projects/BIO328_report_Nr6.pdf)
-   - Zebrafish epilepsy models - [Detail](https://www.ifi.uzh.ch/en/aiml/teaching/Lecture-Deep-Learning.html), [Report]()
+   - ALS markers in human neural cell culture - [Detail](https://veronikagambin.github.io/projects/#als-markers-in-human-neural-cell-culture) , [Report](https://veronikagambin.github.io/projects/BIO328_report_Nr6.pdf)
+   - Zebrafish epilepsy models - [Detail](https://veronikagambin.github.io/projects/#zebrafish-epilepsy-models), [Report]()
  - Integrated knowledge in Biology - [Link](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=EN&sap-ui-language=EN#/details/2024/003/SM/50315967/50000008/Faculty%2520of%2520Science/51030723/Master%2520of%2520Science%2520Faculty%2520of%2520Science%2520(90)%2520(2021)/51037175/Biology)
  - Systems Neuroscience - [Link](https://tilde.ini.uzh.ch/~kiper/system_neurosci.html)
  - Comparative Behavioural Neuroscience - [Link](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=EN&sap-ui-language=EN#/details/2023/004/SM/50931667/50000008/Faculty%2520of%2520Science/51030723/Master%2520of%2520Science%2520Faculty%2520of%2520Science%2520(90)%2520(2021)/51037175/Biology)
@@ -39,7 +42,7 @@ Seville, Spain 24 – 27 September 2024
 ## University of Zurich - Invited Visiting Student (Medicine)
  **Apr. 2022 - Feb. 2023**
 
-**Project**:  Promising novel markers of the recuperative function of sleep - [Detail](https://linan1109.github.io/projects/#interpretable-machine-learning-algorithm-for-drunk-driving-detection)
+**Project**:  Alertness alterations in children with epilepsy - [Detail](https://veronikagambin.github.io/projects/#alertness-alterations-in-children-with-epilepsy)
 
 **Funding**: SNSF grant Grant Nº 179443 [Link](https://data.snf.ch/grants/grant/179443) 
 
@@ -60,13 +63,13 @@ Seville, Spain 24 – 27 September 2024
 
 **Conferences**:
 
-   - 6th Saint Petersburg Winter Workshop on Experimental Studies of Speech and Language: Night Whites 2022 - [Link](https://publications.hse.ru/en/chapters/971099018)        
-St Petersburg, Russia 15 - 16 December 2022
+  - 6th Saint Petersburg Winter Workshop on Experimental Studies of Speech and Language: Night Whites 2022 - [Abstract](https://publications.hse.ru/en/chapters/971099018), [Link](https://nightwhites2022.wordpress.com/)        
+St Petersburg, Russia. 15 - 16 December 2022
 
 ## St Petersburg University - BSc in Biology (Neurobiology)
  **Sep. 2017 - Jun. 2021**
 
-**Bachelor Thesis**: Electrophysiological correlates of associative learning of novel native word forms in preschool children [Detail]()
+**Bachelor Thesis**: Electrophysiological correlates of associative learning of novel native word forms in preschool children [Detail](https://veronikagambin.github.io/projects/#als-markers-in-human-neural-cell-culture)
 
 **GPA**: 4.6/5.0
 
@@ -82,7 +85,9 @@ Psychophysiology, Morphology of Central Nervous System, Neurophysiology, Behavio
 
 **Conferences**:
 
-   - conf
+  - 3rd International Conference Volga Neuroscience Meeting 2021 - [Abstract](), [Link]()
+Nizhny Novgorod, Russia. 24 - 27 August 2021
+  - 
 
 
  ## Honors and Awards
