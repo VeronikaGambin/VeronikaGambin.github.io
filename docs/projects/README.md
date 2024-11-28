@@ -66,6 +66,30 @@ This project was under the supervision of Professor [Abraham Bernstein](https://
 
 Through extensive research,  experiment, and testing, we implement eight recommenders, six explanation methods, and eight metrics. We summarize their requirements, limitations, and shed light on their strengths and weaknesses. We carry out detailed analysis for each applicable recommender-explanation-metric combination utilizing experiment pipeline and carefully crafted datasets. We complete this report by discussing key observations, comparing and contrasting model performance, and elaborating on our insights into the reasons behind the performance disparity. 
 
+## ALS markers in human neural cell culture
+
+**Mar. 2023**
+
+<ProjectDetail image="/projects/3dpinball.gif" hideBorder=true>
+
+</ProjectDetail>
+
+[[Code Here](https://github.com/linan1109/SpaceCadetPinball-AIplayer)]
+
+This project is just for fun. It includes developing an AI player for the classic Windows game '3D Pinball Space Cadet', capable of learning from gameplay to achieve high scores. And it uses a combination of Computer Vision, Reinforcement Learning, and Genetic Algorithm.
+
+## Zebrafish epilepsy models
+
+**Apr. 2023**
+
+<ProjectDetail image="/projects/3dpinball.gif" hideBorder=true>
+
+</ProjectDetail>
+
+[[Code Here](https://github.com/linan1109/SpaceCadetPinball-AIplayer)]
+
+This project is just for fun. It includes developing an AI player for the classic Windows game '3D Pinball Space Cadet', capable of learning from gameplay to achieve high scores. And it uses a combination of Computer Vision, Reinforcement Learning, and Genetic Algorithm.
+
 
 ## Alertness alterations at children with epilepsy
 
