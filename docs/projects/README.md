@@ -91,7 +91,7 @@ This project is just for fun. It includes developing an AI player for the classi
 This project is just for fun. It includes developing an AI player for the classic Windows game '3D Pinball Space Cadet', capable of learning from gameplay to achieve high scores. And it uses a combination of Computer Vision, Reinforcement Learning, and Genetic Algorithm.
 
 
-## Alertness alterations at children with epilepsy
+## Alertness alterations in children with epilepsy
 
 **Apr. 2022 - Mar. 2024**
 
