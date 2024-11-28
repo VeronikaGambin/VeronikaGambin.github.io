@@ -22,7 +22,7 @@ contributors: false
 
 **Lectures Taken**:
  - Neurobiology:
-   - ALS markers in human neural cell culture - [Detail](https://www.ifi.uzh.ch/en/aiml/teaching/Lecture-Deep-Learning.html) , [Report](docs/.vuepress/public/projects/BIO328_report_Nr6.pdf)
+   - ALS markers in human neural cell culture - [Detail](https://www.ifi.uzh.ch/en/aiml/teaching/Lecture-Deep-Learning.html) , [Report](https://veronikagambin.github.io/projects/BIO328_report_Nr6.pdf)
    - Zebrafish epilepsy models - [Detail](https://www.ifi.uzh.ch/en/aiml/teaching/Lecture-Deep-Learning.html), [Report]()
  - Integrated knowledge in Biology - [Link](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=EN&sap-ui-language=EN#/details/2024/003/SM/50315967/50000008/Faculty%2520of%2520Science/51030723/Master%2520of%2520Science%2520Faculty%2520of%2520Science%2520(90)%2520(2021)/51037175/Biology)
  - Systems Neuroscience - [Link](https://tilde.ini.uzh.ch/~kiper/system_neurosci.html)
@@ -31,7 +31,7 @@ contributors: false
  - Clinical Neuroscience - [Link](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=EN&sap-ui-language=EN#/details/2024/004/SM/51212261/50000008/Faculty%2520of%2520Science/51030723/Master%2520of%2520Science%2520Faculty%2520of%2520Science%2520(90)%2520(2021)/51037175/Biology)
 
 **Conferences**:
-   - Sleep Europe Congress: The 27th Conference of the European Sleep Research Society - [Poster](docs/.vuepress/public/projects/Poster_StimKids_ESRS_2024.pdf)        
+   - Sleep Europe Congress: The 27th Conference of the European Sleep Research Society - [Poster](https://veronikagambin.github.io/projects/Poster_StimKids_ESRS_2024.pdf)        
 Poster sessions. J Sleep Res, 33: e14291. https://doi.org/10.1111/jsr.14291
 Seville, Spain 24 – 27 September 2024
 
