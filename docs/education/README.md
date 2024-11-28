@@ -63,13 +63,13 @@ Seville, Spain 24 – 27 September 2024
 
 **Conferences**:
 
-  - 6th Saint Petersburg Winter Workshop on Experimental Studies of Speech and Language: Night Whites 2022 - [Abstract](https://publications.hse.ru/en/chapters/971099018), [Link](https://nightwhites2022.wordpress.com/)        
+  - 6th Saint Petersburg Winter Workshop on Experimental Studies of Speech and Language: Night Whites 2022 - [Abstract](https://veronikagambin.github.io/projects/BIO328_report_Nr6.pdf), [Link](https://nightwhites2022.wordpress.com/)        
 St Petersburg, Russia. 15 - 16 December 2022
 
 ## St Petersburg University - BSc in Biology (Neurobiology)
  **Sep. 2017 - Jun. 2021**
 
-**Bachelor Thesis**: Electrophysiological correlates of associative learning of novel native word forms in preschool children [Detail](https://veronikagambin.github.io/projects/#als-markers-in-human-neural-cell-culture)
+**Bachelor Thesis**: Electrophysiological correlates of associative learning of novel native word forms in preschool children [Detail](https://veronikagambin.github.io/projects/#electrophysiological-correlates-of-associative-learning-of-novel-native-word-forms-in-preschool-children)
 
 **GPA**: 4.6/5.0
 
@@ -85,9 +85,12 @@ Psychophysiology, Morphology of Central Nervous System, Neurophysiology, Behavio
 
 **Conferences**:
 
-  - 3rd International Conference Volga Neuroscience Meeting 2021 - [Abstract](), [Link]()
-Nizhny Novgorod, Russia. 24 - 27 August 2021
-  - 
+  - 3rd International Conference Volga Neuroscience Meeting 2021 - [Abstract](https://veronikagambin.github.io/projects/BIO328_report_Nr6.pdf), [Link](https://neuroconf.unn.ru/vnm-2021/)
+ Nizhny Novgorod, Russia. 24 - 27 August 2021
+  - Психология XXI века: методология психологической науки и практики 2020 - [Abstract](https://veronikagambin.github.io/projects/BIO328_report_Nr6.pdf), [Link](https://neuroconf.unn.ru/vnm-2021/)
+ St Petersburg, Russia. 2 - 4 September 2020
+  - Ананьевские чтения – 2020. : Психология служебной деятельности: достижения и перспективы развития, в честь 75-летия Победы в Великой Отечественной войне 1941–1945 гг. - [Abstract](https://veronikagambin.github.io/projects/BIO328_report_Nr6.pdf), [Link](https://events.spbu.ru/events/ananyev-2020)
+ St Petersburg, Russia. 8 - 11 December 2020
 
 
  ## Honors and Awards
