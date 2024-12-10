@@ -19,52 +19,56 @@ contributors: false
 </ProjectDetail>
 
 
-This project is under the supervision of professor and researchers at [ETH AI center](https://ai.ethz.ch/). 
+This project is supervised by Dr Lakämper at [IRM UZH]((https://orcid.org/0000-0002-7393-7705)). 
 
  <!-- - **Description**: This project focuses on the investigation into facilitating the locomotion policies training process by integrating simulation, visualization, and analysis in a single tool. -->
  <!-- - **Main Work**: Conduct in-depth research on the Dynamics Explorer system and other relevant visualization techniques. Integrate state-of-the-art quadrupedal locomotion learning algorithms, leveraging platforms such as Isaac Gym and RaiSim for simulation and experimentation. -->
 
-**Objective**: This project focuses on the investigation into facilitating the locomotion policies training process by integrating simulation, visualization, and analysis in a single tool. It allows users to observe robot behaviors, compare multiple policies, inspect key measurements, and capture key frames.
+**Objective**: The current project focuses on validating a new standard driving-simulator-based maintenance of wakefulness test (DS-MWT) for precise assessment of excessive daytime sleepiness (EDS). 
 
 <!-- **Contributions**:
 - Algorithm Research & Integration: Researched and implemented state-of-the-art locomotion learning algorithms. This step included reviewing the latest methodologies, identifying best practices, and customizing them for quadrupedal robots.
 - Simulation Platform: Employed RaiSim, a physics engine, to simulate different locomotion learning scenarios and experiment with algorithm effectiveness, creating a controlled environment for testing.
-- Visualization Website: Developed a web-based visualization platform to interpret the outcomes of different learning strategies, helping researchers analyze the learning behavior and adjust strategies accordingly. -->
+- Visualization Website: Developed a web-based visualization platform to interpret the outcomes of different learning strategies, helping researchers analyze the learning behaviour and adjust strategies accordingly. -->
 
 ## AI-based microsleep detection during driving 
 
 **Oct. 2024 - Ongoing**
 
+<ProjectDetail image="/projects/3dpinball.gif" hideBorder=true>
+</ProjectDetail>
 
-This project is conducted at the [IoT Lab](https://www.iot-lab.ch/projects-connectedmobility/drive/) at ETHz, and under supervision of Professor [Manuel Günther](https://www.ifi.uzh.ch/en/aiml/people/guenther.html) at [AIML Group](https://www.ifi.uzh.ch/en/aiml.html) of UZH.
+The current project is conducted in collaboration with [Dr Jelena Scorusak](https://www.linkedin.com/in/jelena-skorucak-848a9051/).
 
-- **Description**: Developed interpretable machine learning algorithms to detect drunk driving using a multi-sensor dataset, focusing on creating accurate models for effective interpretation. Explored various approaches for multivariate time-series classification and used them on driving data.
- - **Dataset**: Utilized a unique real-world dataset collected from real vehicles, including vehicle CAN bus data, eye tracking data, gas sensor data, vital sensor data, and in-vehicle radar data.
- - **Responsibilities**: Led the development and training of interpretable time-series classification models, employing techniques such as logistic regression, convolutional neural networks, recurrent neural networks, etc. Investigated methods for generating comprehensive explanations for model predictions.
+**Objective**: Implementation of automated microsleep episode detection algorithm in DS-MWT for fitness-to-drive assessment. 
+
 
 ## Auditory evoked potentials elicited by closed-loop stimulation during sleep in children and adults
 
 **Sep. 2023 - Sep. 2024**
 
-<ProjectDetail image="/projects/3dpinball.gif" hideBorder=true>
-
+<ProjectDetail image="/projects/AEP_ch_ad.png" hideBorder=true>
 </ProjectDetail>
 
-[[Code Here](https://github.com/linan1109/SpaceCadetPinball-AIplayer)]
 
-This project is just for fun. It includes developing an AI player for the classic Windows game '3D Pinball Space Cadet', capable of learning from gameplay to achieve high scores. And it uses a combination of Computer Vision, Reinforcement Learning, and Genetic Algorithm.
+This project was conducted under the supervision of [Prof Dr Reto Huber](https://www.researchgate.net/profile/Reto-Huber) at [Kinderspital Zürich](https://www.kispi.uzh.ch/kinderspital/interdisziplinaeres-zentrum-fuer-schlafmedizin).
 
+- **Description**: Investigation of the impact of closed-loop down-phase targeted stimulation during NREM sleep in a pediatric population and comparing  the characteristics of AEP components (amplitude and latency) between children and adults to identify age-related differences.
+- **Dataset**: High-density EEG recordings and behavioural assessment of 14 healthy adults and eight healthy children.
+- **Responsibilities**: Collection of physiological and behavioural data, processing and analysis, using AI-driven systems, manual scoring and statistical software. Results presentation.
+- The following processing of the collected data set included an in-depth analysis of the EEG activity of healthy children [Poster](https://VeronikaGambin.github.io/projects//Poster_StimKids_ESRS_2024.pdf)
 
 ## Real-time customer satisfaction analytics
 
 **Feb. 2022 - Apr. 2024**
 
-<ProjectDetail image="/projects/rose.png" hideBorder=true>
+<ProjectDetail image="/projects/shelf.png" hideBorder=true>
 </ProjectDetail>
 
-This project was under the supervision of Professor [Abraham Bernstein](https://www.ifi.uzh.ch/en/ddis/people/bernstein.html) at [Dynamic and Distributed Information Systems Group](https://www.ifi.uzh.ch/en/ddis.html) of UZH.
+Freelance project for a start-up company [Wayvee](https://wayvee.com/)
 
-Through extensive research,  experiment, and testing, we implement eight recommenders, six explanation methods, and eight metrics. We summarize their requirements, limitations, and shed light on their strengths and weaknesses. We carry out detailed analysis for each applicable recommender-explanation-metric combination utilizing experiment pipeline and carefully crafted datasets. We complete this report by discussing key observations, comparing and contrasting model performance, and elaborating on our insights into the reasons behind the performance disparity. 
+- **Description**: Validation of radio-wave-based emotional detection algorithm with physiological measurements to assess in-store customer satisfaction.
+- **Responsibilities**: Full cycle experimental design development and implementation. Integration of EEG, eye-tracking, GSR and HRV sensors in the in-store experimental setting. Large-scale data collection and analysis, utilising specialized Python libraries and statistical tools.
 
 ## ALS markers in human neural cell culture
 
