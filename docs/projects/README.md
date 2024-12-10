@@ -47,9 +47,8 @@ The current project is conducted in collaboration with [Dr Jelena Scorusak](http
 
 **Sep. 2023 - Sep. 2024**
 
-<ProjectDetail image="/projects/AEP_ch_ad.png" 
+<ProjectDetail image="/projects/AEP_ch_ad.png" hideBorder=true>
 </ProjectDetail>
-
 
 This project was conducted under the supervision of [Prof Dr Reto Huber](https://www.researchgate.net/profile/Reto-Huber) at [Kinderspital Zürich](https://www.kispi.uzh.ch/kinderspital/interdisziplinaeres-zentrum-fuer-schlafmedizin).
 
