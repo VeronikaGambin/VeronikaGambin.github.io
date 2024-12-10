@@ -55,7 +55,7 @@ This project was conducted under the supervision of [Prof Dr Reto Huber](https:/
 - **Description**: Investigation of the impact of closed-loop down-phase targeted stimulation during NREM sleep in a pediatric population and comparing  the characteristics of AEP components (amplitude and latency) between children and adults to identify age-related differences.
 - **Dataset**: High-density EEG recordings and behavioural assessment of 14 healthy adults and eight healthy children.
 - **Responsibilities**: Collection of physiological and behavioural data, processing and analysis, using AI-driven systems, manual scoring and statistical software. Results presentation.
-- The following processing of the collected data set included an in-depth analysis of the EEG activity of healthy children [Poster](https://VeronikaGambin.github.io/projects//Poster_StimKids_ESRS_2024.pdf)
+- The following processing of the collected data set included an in-depth analysis of the EEG activity of healthy children [Poster](https://veronikagambin.github.io/projects//Poster_StimKids_ESRS_2024.pdf)
 
 ## Real-time customer satisfaction analytics
 
@@ -80,7 +80,7 @@ This project was conducted under the supervision of Dr Beatrice Gatta at [Polyme
 
 - **Description**: Investigation of the effects of TDP-43 on NPTX2 levels during the differentiation of human neurons.
 - **Responsibilities**: Preparation of human neural cell culture. Western blotting. Immunofluorescence. Confocal microscopy.
-- **Outcomes**: [Report](https://VeronikaGambin.github.io/projects/BIO328_report_Nr6.pdf)
+- **Outcomes**: [Report](https://veronikagambin.github.io/projects/BIO328_report_Nr6.pdf)
 
 ## Seizure susceptibility in genetic model of epilepsy in Zebrafish
 
@@ -93,7 +93,7 @@ This project was conducted under the supervision of [Dr Nicolas Rieser](https://
 
 - **Description**: Project aimed to investigate the seizure susceptibility of eaat2a heterozygous zebrafish larvae mutants, compared with eaat2a wildtype larvae with drug-induced epileptic seizures. Assess neuroprotection by galanin with drug-induced epileptic seizures.
 - **Responsibilities**: Setting up fish, collecting eggs and taking care of zebrafish larvae. Genotyping of zebrafish larvae. Ca2+ imaging in zebrafish in vivo. Immunostainings and confocal microscopy on whole larvae
-- **Outcomes**: [Report](https://VeronikaGambin.github.io/projects/Report_Neuhauss_Lab.pdf)
+- **Outcomes**: [Report](https://veronikagambin.github.io/projects/Report_Neuhauss_Lab.pdf)
 
 
 ## Alertness alterations in children with epilepsy
@@ -111,7 +111,7 @@ This project was conducted under the supervision of [Dr Marina Vasilyeva](https:
 - **Description**: This project's goal was to define brain dynamics elicited by novel words following a single-shot semantic associative learning task combined with sensorimotor (articulatory) training and
 to estimate cortical underpinnings of this process in the developing brain.
 - **Responsibilities**: Developing a new paradigm of fast-mapping learning. Experiment design, HD-eeg data collecting, and Wechsler iq assessment. Data analysis. 
-- **Outcomes**: [Report](https://VeronikaGambin.github.io/projects/VolgaNeuroscience_Proceedings_2021-91-92.pdf), [Report](https://VeronikaGambin.github.io/projects/Night_Whites_2022-117-118.pdf)
+- **Outcomes**: [Report](https://veronikagambin.github.io/projects/VolgaNeuroscience_Proceedings_2021-91-92.pdf), [Report](https://veronikagambin.github.io/projects/Night_Whites_2022-117-118.pdf)
 
 ## Electrophysiological correlates of associative learning of novel native word forms in preschool children.
 
@@ -124,5 +124,5 @@ This project was conducted under the supervision of [Dr Marina Vasilyeva](https:
 
 - **Description**: Investigation of the electrophysiological correlates of associative learning of novel native word forms, using a short articulatory task, in preschool children by the method of evoked brain potentials.
 - **Responsibilities**: Conducting experiment with young population(5–7 y. o.), collecting hd-eeg data, perform wechsler iq assessment. Data processing and statistical analysis.
-- **Outcomes**: [Report](https://VeronikaGambin.github.io/projects/Sbornik_2020_Psikhologia_21_veka-61-62.pdff), [Report](https://VeronikaGambin.github.io/projects/AnCht-2020_v6-907-908.pdf)
+- **Outcomes**: [Report](https://veronikagambin.github.io/projects/Sbornik_2020_Psikhologia_21_veka-61-62.pdff), [Report](https://veronikagambin.github.io/projects/AnCht-2020_v6-907-908.pdf)
 
