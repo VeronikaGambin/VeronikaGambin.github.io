@@ -14,10 +14,6 @@ contributors: false
 
 **Oct. 2024 - Ongoing**
 
-<!-- <ProjectDetail image="/projects/anymal-large.png" hideBorder=true> -->
-<ProjectDetail image="/projects/anymal.gif" hideBorder=true> 
-</ProjectDetail>
-
 
 This project is supervised by [Dr Lakämper](https://orcid.org/0000-0002-7393-7705) at [IRM UZH](https://www.irm.uzh.ch/de.html). 
 
@@ -35,8 +31,6 @@ This project is supervised by [Dr Lakämper](https://orcid.org/0000-0002-7393-77
 
 **Oct. 2024 - Ongoing**
 
-<ProjectDetail image="/projects/3dpinball.gif" hideBorder=true>
-</ProjectDetail>
 
 The current project is conducted in collaboration with [Dr Jelena Scorusak](https://www.linkedin.com/in/jelena-skorucak-848a9051/).
 
@@ -89,7 +83,7 @@ This project was conducted under the supervision of Dr Beatrice Gatta at [Polyme
 
 **Apr. 2023**
 
-<ProjectDetail image="/projects/fish.gif" hideBorder=true>
+<ProjectDetail image="/projects/zebrafish.gif" hideBorder=true>
 </ProjectDetail>
 <ProjectDetail image="/projects/zebrafish.png" hideBorder=true>
 </ProjectDetail>
@@ -135,7 +129,3 @@ This project was conducted under the supervision of [Dr Marina Vasilyeva](https:
 - **Outcomes**: [Report](https://veronikagambin.github.io/projects/Sbornik.pdf), [Report](https://veronikagambin.github.io/projects/AnCht-2020_v6-907-908.pdf)  
 
 
-
-KniLIM adopts a multi-platform approach, allowing usage on both browsers and desktops. Functionally, the system is divided into chat system, dynamic system, search system, friend system, group chat system, and recommendation system. The main features of the chat system include one-on-one chatting, text transmission, voice transmission, image and file transmission, and real-time audio-video calls. The dynamic system features friend updates. The search system enables searching chat records and friends. The friend system facilitates user registration, basic information input, friend addition, and deletion. The group chat system allows group creation and exit, group chatting, text transmission, voice transmission, and image and file transmission. The recommendation system provides friend and group suggestions.
-
-In the core chat system, KniLIM employs a P2P architecture based on Socket long connections to ensure the timeliness of message exchange, while operations like login, registration, and friend addition utilize a short connection approach based on REST. Moreover, the server-side core functionalities are decoupled into different microservices, enabling mutual communication and invocation between services through RPC, thereby enhancing the system's flexibility and scalability.
