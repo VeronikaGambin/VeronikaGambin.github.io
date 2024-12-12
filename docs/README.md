@@ -65,32 +65,26 @@ By employing a multidisciplinary approach that integrates advanced thechnologies
 
 <ProjectCard image="/projects/1.png" hideBorder=true>
 
-  **Interpretable Machine Learning Algorithm for Drunk Driving Detection**
+  **Driving simulation-based maintenance of wakefulness test (MWT)**
 
-
-Crafted interpretable machine learning algorithms for drunk driving detection utilizing a multi-sensor dataset. 
-Emphasized precision and interpretability, employing diverse techniques in multivariate time-series classification tailored for driving data analysis.
-
-  [[Website](https://www.iot-lab.ch/projects-connectedmobility/drive/)] [[SRF video](https://www.iot-lab.ch/news/our-in-vehicle-drunk-driving-detection-featured-on-srf-swiss-tv/)] 
+Current project focuses on validating a new standard driving-simulator-based maintenance of wakefulness test (DS-MWT) for precise assessment of excessive daytime sleepiness (EDS).
 
 </ProjectCard>
 
-<ProjectCard image="/projects/anymal.png" hideBorder=true>
+<ProjectCard image="/projects/MSE.png" hideBorder=true>
 
-  **Multi-Robot Interactive Simulation and Analysis Platform**
+  **AI-based microsleep detection during driving**
 
-This project addresses the challenges roboticists face in training locomotion policies by developing an interactive simulation and visualization framework.
-The framework is designed to facilitate the learning process for quadrupedal locomotion, enabling more efficient and effective policy comparison and communication.
+Implementation of automated microsleep episode detection algorithm in DS-MWT for fitness-to-drive assessment.
 
 </ProjectCard>
 
 
-<ProjectCard image="/projects/rose.png" hideBorder=true>
+<ProjectCard image="/projects/AEP_ch_ad.png" hideBorder=true>
 
-  **Explanation Methods for Recommender Systems**
+  **Auditory evoked potentials elicited by closed-loop stimulation during sleep in children and adults**
 
-Conducted research and implemented explanation methods for recommender systems’ outputs, along
-with quantitative metrics to evaluate these explainers. 
+Investigation of the impact of closed-loop down-phase targeted stimulation during NREM sleep in a pediatric population and comparing the characteristics of AEP components (amplitude and latency) between children and adults to identify age-related differences.
 
 </ProjectCard>
 
