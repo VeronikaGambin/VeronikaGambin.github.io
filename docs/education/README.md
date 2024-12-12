@@ -25,8 +25,8 @@ contributors: false
 
 **Lectures Taken**:
  - Neurobiology:
-   - ALS markers in human neural cell culture - [Detail](https://veronikagambin.github.io/projects/#als-markers-in-human-neural-cell-culture) , [Report](https://veronikagambin.github.io/projects/BIO328_report_Nr6.pdf)
-   - Zebrafish epilepsy models - [Detail](https://veronikagambin.github.io/projects/#zebrafish-epilepsy-models), [Report](https://veronikagambin.github.io/projects//Report_Neuhauss_Lab.pdf)
+   - ALS markers in human neural cell culture - [Detail](https://veronikagambin.github.io/projects/#effects-of-tdp-43-on-nptx2-levels-during-neuronal-differentiation) , [Report](https://veronikagambin.github.io/projects/BIO328_report_Nr6.pdf)
+   - Zebrafish epilepsy models - [Detail](https://veronikagambin.github.io/projects/#seizure-susceptibility-in-genetic-model-of-epilepsy-in-zebrafish), [Report](https://veronikagambin.github.io/projects//Report_Neuhauss_Lab.pdf)
  - Integrated knowledge in Biology - [Link](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=EN&sap-ui-language=EN#/details/2024/003/SM/50315967/50000008/Faculty%2520of%2520Science/51030723/Master%2520of%2520Science%2520Faculty%2520of%2520Science%2520(90)%2520(2021)/51037175/Biology)
  - Systems Neuroscience - [Link](https://tilde.ini.uzh.ch/~kiper/system_neurosci.html)
  - Comparative Behavioural Neuroscience - [Link](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=EN&sap-ui-language=EN#/details/2023/004/SM/50931667/50000008/Faculty%2520of%2520Science/51030723/Master%2520of%2520Science%2520Faculty%2520of%2520Science%2520(90)%2520(2021)/51037175/Biology)
@@ -50,6 +50,8 @@ Seville, Spain 24 – 27 September 2024
  **Sep. 2021 - Apr. 2022**
  
 **GPA**: 4.75/5.0
+
+**Project**:  Alertness alterations in children with epilepsy - [Detail](https://veronikagambin.github.io/projects/#the-role-of-articulation-in-novel-word-learning)
 
 **Lectures Taken**:
  - Neuronal Communication: Mechanisms and Functions
