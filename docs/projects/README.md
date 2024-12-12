@@ -83,9 +83,9 @@ This project was conducted under the supervision of Dr Beatrice Gatta at [Polyme
 
 **Apr. 2023**
 
-<ProjectDetail image="/projects/zebrafish.gif" hideBorder=true>
+<ProjectDetail image="/projects/zebrafish.gif" hideBorder=true> <ProjectDetail image="/projects/zebrafish.png" hideBorder=true>
 </ProjectDetail>
-<ProjectDetail image="/projects/zebrafish.png" hideBorder=true>
+
 </ProjectDetail>
 
 
@@ -117,9 +117,9 @@ to estimate cortical underpinnings of this process in the developing brain.
 
 **Jan. 2018 - Jul. 2021**
 
-<ProjectDetail image="/projects/ERP.png" hideBorder=true> 
+<ProjectDetail image="/projects/ERP.png" hideBorder=true> <ProjectDetail image="/projects/loreta.png" hideBorder=true>  
 </ProjectDetail>
-<ProjectDetail image="/projects/loreta.png" hideBorder=true>  
+
 </ProjectDetail>
 
 This project was conducted under the supervision of [Dr Marina Vasilyeva](https://loop.frontiersin.org/people/635870/overview) at [Laboratory of Behavioral Neurodynamics](https://cogneuro.spbu.ru/language/en/cogneuro-spbu-ru/).
