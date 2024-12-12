@@ -19,7 +19,7 @@ contributors: false
 </ProjectDetail>
 
 
-This project is supervised by Dr Lakämper at [IRM UZH](https://orcid.org/0000-0002-7393-7705). 
+This project is supervised by [Dr Lakämper](https://orcid.org/0000-0002-7393-7705) at [IRM UZH](https://www.irm.uzh.ch/de.html). 
 
  <!-- - **Description**: This project focuses on the investigation into facilitating the locomotion policies training process by integrating simulation, visualization, and analysis in a single tool. -->
  <!-- - **Main Work**: Conduct in-depth research on the Dynamics Explorer system and other relevant visualization techniques. Integrate state-of-the-art quadrupedal locomotion learning algorithms, leveraging platforms such as Isaac Gym and RaiSim for simulation and experimentation. -->
@@ -74,7 +74,7 @@ Freelance project for a start-up company [Wayvee](https://wayvee.com/)
 
 **Mar. 2023**
 
-<ProjectDetail image="/projects/TDP.pdf" hideBorder=true>
+<ProjectDetail image="/projects/TDP.png" hideBorder=true>
 
 </ProjectDetail>
 
@@ -132,7 +132,7 @@ This project was conducted under the supervision of [Dr Marina Vasilyeva](https:
 
 - **Description**: Investigation of the electrophysiological correlates of associative learning of novel native word forms, using a short articulatory task, in preschool children by the method of evoked brain potentials.
 - **Responsibilities**: Conducting experiment with young population(5–7 y. o.), collecting hd-eeg data, perform wechsler iq assessment. Data processing and statistical analysis.
-- **Outcomes**: [Report](https://veronikagambin.github.io/projects/Sbornik_2020_Psikhologia_21_veka-61-62.pdff), [Report](https://veronikagambin.github.io/projects/AnCht-2020_v6-907-908.pdf)  
+- **Outcomes**: [Report](https://veronikagambin.github.io/projects/Sbornik.pdf), [Report](https://veronikagambin.github.io/projects/AnCht-2020_v6-907-908.pdf)  
 
 
 
