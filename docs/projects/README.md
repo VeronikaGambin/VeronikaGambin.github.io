@@ -19,7 +19,7 @@ contributors: false
 </ProjectDetail>
 
 
-This project is supervised by Dr Lakämper at [IRM UZH]((https://orcid.org/0000-0002-7393-7705)). 
+This project is supervised by Dr Lakämper at [IRM UZH](https://orcid.org/0000-0002-7393-7705). 
 
  <!-- - **Description**: This project focuses on the investigation into facilitating the locomotion policies training process by integrating simulation, visualization, and analysis in a single tool. -->
  <!-- - **Main Work**: Conduct in-depth research on the Dynamics Explorer system and other relevant visualization techniques. Integrate state-of-the-art quadrupedal locomotion learning algorithms, leveraging platforms such as Isaac Gym and RaiSim for simulation and experimentation. -->
@@ -38,7 +38,7 @@ This project is supervised by Dr Lakämper at [IRM UZH]((https://orcid.org/0000-
 <ProjectDetail image="/projects/3dpinball.gif" hideBorder=true>
 </ProjectDetail>
 
-The current project is conducted in collaboration with [Dr Jelena Scorusak](https://www.linkedin.com/in/jelena-skorucak-848a9051/).
+The current project is conducted in collaboration with [Dr Jelena Scorusak](https://www.linkedin.com/in/jelena-skorucak-848a9051).
 
 **Objective**: Implementation of automated microsleep episode detection algorithm in DS-MWT for fitness-to-drive assessment. 
 
@@ -64,7 +64,7 @@ This project was conducted under the supervision of [Prof Dr Reto Huber](https:/
 <ProjectDetail image="/projects/shelf.png" hideBorder=true>
 </ProjectDetail>
 
-Freelance project for a start-up company [Wayvee](https://wayvee.com/)
+Freelance project for a start-up company [Wayvee](https://wayvee.com)
 
 - **Description**: Validation of radio-wave-based emotional detection algorithm with physiological measurements to assess in-store customer satisfaction.
 - **Responsibilities**: Full cycle experimental design development and implementation. Integration of EEG, eye-tracking, GSR and HRV sensors in the in-store experimental setting. Large-scale data collection and analysis, utilising specialized Python libraries and statistical tools.
@@ -76,7 +76,7 @@ Freelance project for a start-up company [Wayvee](https://wayvee.com/)
 <ProjectDetail image="/projects/TDP.pdf" hideBorder=true>
 </ProjectDetail>
 
-This project was conducted under the supervision of Dr Beatrice Gatta at [Polymenidou Lab UZH](https://www.polymenidoulab.com/).
+This project was conducted under the supervision of Dr Beatrice Gatta at [Polymenidou Lab UZH](https://www.polymenidoulab.com).
 
 - **Description**: Investigation of the effects of TDP-43 on NPTX2 levels during the differentiation of human neurons.
 - **Responsibilities**: Preparation of human neural cell culture. Western blotting. Immunofluorescence. Confocal microscopy.
@@ -86,10 +86,11 @@ This project was conducted under the supervision of Dr Beatrice Gatta at [Polyme
 
 **Apr. 2023**
 
-<ProjectDetail image="/projects/fish.gif" hideBorder=true> <ProjectDetail image="/projects/zebrafish.png" hideBorder=true>  
+<ProjectDetail image="/projects/fish.gif" hideBorder=true> 
+<ProjectDetail image="/projects/zebrafish.png" hideBorder=true>  
 </ProjectDetail>
 
-This project was conducted under the supervision of [Dr Nicolas Rieser](https://www.linkedin.com/in/nicolas-rieser/) at [Neuhauss Lab UZH](https://www.mls.uzh.ch/en/research/neuhauss.html).
+This project was conducted under the supervision of [Dr Nicolas Rieser](https://www.linkedin.com/in/nicolas-rieser) at [Neuhauss Lab UZH](https://www.mls.uzh.ch/en/research/neuhauss.html).
 
 - **Description**: Project aimed to investigate the seizure susceptibility of eaat2a heterozygous zebrafish larvae mutants, compared with eaat2a wildtype larvae with drug-induced epileptic seizures. Assess neuroprotection by galanin with drug-induced epileptic seizures.
 - **Responsibilities**: Setting up fish, collecting eggs and taking care of zebrafish larvae. Genotyping of zebrafish larvae. Ca2+ imaging in zebrafish in vivo. Immunostainings and confocal microscopy on whole larvae
@@ -106,7 +107,7 @@ This project was conducted under the supervision of [Dr Nicolas Rieser](https://
 
 **Sep. 2021 - Feb. 2022**
 
-This project was conducted under the supervision of [Dr Marina Vasilyeva](https://loop.frontiersin.org/people/635870/overview) at [Laboratory of Behavioral Neurodynamics](https://cogneuro.spbu.ru/language/en/cogneuro-spbu-ru/).
+This project was conducted under the supervision of [Dr Marina Vasilyeva](https://loop.frontiersin.org/people/635870/overview) at [Laboratory of Behavioral Neurodynamics](https://cogneuro.spbu.ru/language/en/cogneuro-spbu-ru).
 
 - **Description**: This project's goal was to define brain dynamics elicited by novel words following a single-shot semantic associative learning task combined with sensorimotor (articulatory) training and
 to estimate cortical underpinnings of this process in the developing brain.
@@ -117,10 +118,11 @@ to estimate cortical underpinnings of this process in the developing brain.
 
 **Jan. 2018 - Jul. 2021**
 
-<ProjectDetail image="/projects/ERP.png" hideBorder=true> <ProjectDetail image="/projects/loreta.png" hideBorder=true>  
+<ProjectDetail image="/projects/ERP.png" hideBorder=true> 
+<ProjectDetail image="/projects/loreta.png" hideBorder=true>  
 </ProjectDetail>
 
-This project was conducted under the supervision of [Dr Marina Vasilyeva](https://loop.frontiersin.org/people/635870/overview) at [Laboratory of Behavioral Neurodynamics](https://cogneuro.spbu.ru/language/en/cogneuro-spbu-ru/).
+This project was conducted under the supervision of [Dr Marina Vasilyeva](https://loop.frontiersin.org/people/635870/overview) at [Laboratory of Behavioral Neurodynamics](https://cogneuro.spbu.ru/language/en/cogneuro-spbu-ru).
 
 - **Description**: Investigation of the electrophysiological correlates of associative learning of novel native word forms, using a short articulatory task, in preschool children by the method of evoked brain potentials.
 - **Responsibilities**: Conducting experiment with young population(5–7 y. o.), collecting hd-eeg data, perform wechsler iq assessment. Data processing and statistical analysis.
