@@ -81,17 +81,24 @@ Freelance project for a start-up company [Wayvee](https://wayvee.com/)
 
 This project was conducted under the supervision of Dr Beatrice Gatta at [Polymenidou Lab UZH](https://www.polymenidoulab.com/).
 
-## Zebrafish epilepsy models
+- **Description**: Investigation of the effects of TDP-43 on NPTX2 levels during the differentiation of human neurons.
+- **Responsibilities**: Preparation of human neural cell culture. Western blotting. Immunofluorescence. Confocal microscopy.
+- **Outcomes**: [Report](https://veronikagambin.github.io/projects/BIO328_report_Nr6.pdf)
+
+## Seizure susceptibility in genetic model of epilepsy in Zebrafish
 
 **Apr. 2023**
 
-<ProjectDetail image="/projects/3dpinball.gif" hideBorder=true>
+<ProjectDetail image="/projects/fish.gif" hideBorder=true>
 
 </ProjectDetail>
 
-[[Code Here](https://github.com/linan1109/SpaceCadetPinball-AIplayer)]
 
-This project is just for fun. It includes developing an AI player for the classic Windows game '3D Pinball Space Cadet', capable of learning from gameplay to achieve high scores. And it uses a combination of Computer Vision, Reinforcement Learning, and Genetic Algorithm.
+This project was conducted under the supervision of [Dr Nicolas Rieser](https://www.linkedin.com/in/nicolas-rieser/) at [Neuhauss Lab UZH](https://www.mls.uzh.ch/en/research/neuhauss.html).
+
+- **Description**: Project aimed to investigate the seizure susceptibility of eaat2a heterozygous zebrafish larvae mutants, compared with eaat2a wildtype larvae with drug-induced epileptic seizures. Assess neuroprotection by galanin with drug-induced epileptic seizures.
+- **Responsibilities**: Setting up fish, collecting eggs and taking care of zebrafish larvae. Genotyping of zebrafish larvae. Ca2+ imaging in zebrafish in vivo. Immunostainings and confocal microscopy on whole larvae
+- **Outcomes**: [Report](https://veronikagambin.github.io/projects/Report_Neuhauss_Lab.pdf)
 
 
 ## Alertness alterations in children with epilepsy
