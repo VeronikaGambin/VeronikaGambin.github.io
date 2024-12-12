@@ -19,7 +19,7 @@ contributors: false
 </ProjectDetail>
 
 
-This project is supervised by Dr Lakämper at [IRM UZH]((https://orcid.org/0000-0002-7393-7705)). 
+This project is supervised by Dr Lakämper at [IRM UZH](https://orcid.org/0000-0002-7393-7705). 
 
  <!-- - **Description**: This project focuses on the investigation into facilitating the locomotion policies training process by integrating simulation, visualization, and analysis in a single tool. -->
  <!-- - **Main Work**: Conduct in-depth research on the Dynamics Explorer system and other relevant visualization techniques. Integrate state-of-the-art quadrupedal locomotion learning algorithms, leveraging platforms such as Isaac Gym and RaiSim for simulation and experimentation. -->
@@ -70,17 +70,16 @@ Freelance project for a start-up company [Wayvee](https://wayvee.com/)
 - **Description**: Validation of radio-wave-based emotional detection algorithm with physiological measurements to assess in-store customer satisfaction.
 - **Responsibilities**: Full cycle experimental design development and implementation. Integration of EEG, eye-tracking, GSR and HRV sensors in the in-store experimental setting. Large-scale data collection and analysis, utilising specialized Python libraries and statistical tools.
 
-## ALS markers in human neural cell culture
+## Effects of TDP-43 on NPTX2 levels during neuronal differentiation
 
 **Mar. 2023**
 
-<ProjectDetail image="/projects/3dpinball.gif" hideBorder=true>
+<ProjectDetail image="/projects/TDP.pdf" hideBorder=true>
 
 </ProjectDetail>
 
-[[Code Here](https://github.com/linan1109/SpaceCadetPinball-AIplayer)]
 
-This project is just for fun. It includes developing an AI player for the classic Windows game '3D Pinball Space Cadet', capable of learning from gameplay to achieve high scores. And it uses a combination of Computer Vision, Reinforcement Learning, and Genetic Algorithm.
+This project was conducted under the supervision of Dr Beatrice Gatta at [Polymenidou Lab UZH](https://www.polymenidoulab.com/).
 
 ## Zebrafish epilepsy models
 
