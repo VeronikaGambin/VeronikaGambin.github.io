@@ -63,7 +63,7 @@ By employing a multidisciplinary approach that integrates advanced thechnologies
 
 [→ To Full List][projects-detail]
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard image="/projects/DS.png" hideBorder=true>
 
   **Driving simulation-based maintenance of wakefulness test (MWT)**
 
@@ -71,7 +71,7 @@ Current project focuses on validating a new standard driving-simulator-based mai
 
 </ProjectCard>
 
-<ProjectCard image="/projects/MSE.png" hideBorder=true>
+<ProjectCard image="/projects/MSE.PNG" hideBorder=true>
 
   **AI-based microsleep detection during driving**
 
@@ -91,12 +91,11 @@ Investigation of the impact of closed-loop down-phase targeted stimulation durin
 [projects-detail]: /projects/
 
 
-## On-Campus Works
+## Work Experience
 
-- Fall 2023: Practical Tutor in the lecture ["Foundations of Data Science"][fds] (MSc & PhD) at the University of Zurich
-- Fall 2020: Teaching Assistant in the lecture ["Compiler Theory"][this-site] (BEng) at Beihang University
-- Spring 2020: Head Teaching Assistant in the lecture ["Object-Oriented Programming (Java)"][this-site] (BEng) at Beihang University
-- Fall 20129: Teaching Assistant in the lecture ["Algorithm Analysis and Design"][this-site] (BEng) at Beihang University
+- Spring 2024: Freelance Neuroscience Consultant at [Wayvee](https://wayvee.com/), developing of real-time customer satisfaction technology based on radio waves signal.
+- 2022 - 2024: Research Assistant at [University Children's Hospital Zurich](https://www.uzh.ch/en/explore/hospitals/kispi.html), studying sleep and developmental processes.
+- 2019 - 2022: Research Assistant at [St Petersburg State University](https://english.spbu.ru/), studying psychophysiology of speech in children.
 
 [fds]: https://www.ifi.uzh.ch/en/dast/teaching/FDS.html
 [this-site]: /
