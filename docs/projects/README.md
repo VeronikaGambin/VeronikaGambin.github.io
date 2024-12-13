@@ -87,10 +87,10 @@ This project was conducted under the supervision of Dr Beatrice Gatta at [Polyme
 
 **Apr. 2023**
 
-<ProjectDetail image="/projects/zebrafish.gif" hideBorder=true> <ProjectDetail image="/projects/zebrafish.png" hideBorder=true>
-</ProjectDetail>
-
-</ProjectDetail>
+<div style="display: flex; gap: 10px;">
+  <ProjectDetail image="/projects/zebrafish.gif" hideBorder=true></ProjectDetail>
+  <ProjectDetail image="/projects/zebrafish.png" hideBorder=true></ProjectDetail>
+</div>
 
 
 This project was conducted under the supervision of [Dr Nicolas Rieser](https://www.linkedin.com/in/nicolas-rieser/) at [Neuhauss Lab UZH](https://www.mls.uzh.ch/en/research/neuhauss.html).
