@@ -14,6 +14,8 @@ contributors: false
 
 **Oct. 2024 - Ongoing**
 
+<ProjectDetail image="/projects/DS.gif" hideBorder=true>
+</ProjectDetail>
 
 This project is supervised by [Dr Lakämper](https://orcid.org/0000-0002-7393-7705) at [IRM UZH](https://www.irm.uzh.ch/de.html). 
 
@@ -31,6 +33,8 @@ This project is supervised by [Dr Lakämper](https://orcid.org/0000-0002-7393-77
 
 **Oct. 2024 - Ongoing**
 
+<ProjectDetail image="/projects/MSE.PNG" hideBorder=true>
+</ProjectDetail>
 
 The current project is conducted in collaboration with [Dr Jelena Scorusak](https://www.linkedin.com/in/jelena-skorucak-848a9051/).
 
