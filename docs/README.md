@@ -63,7 +63,7 @@ By employing a multidisciplinary approach that integrates advanced thechnologies
 
 [→ To Full List][projects-detail]
 
-<ProjectCard image="/projects/DS.png" hideBorder=true>
+<ProjectCard image="/projects/DS.PNG" hideBorder=true>
 
   **Driving simulation-based maintenance of wakefulness test (MWT)**
 
