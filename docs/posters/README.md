@@ -62,7 +62,7 @@ contributors: false
   <p>Melanie Furrer, <strong>Veronika Gambin</strong>, Clara Wehlage, Gina Strähler, Sven Leach, Sara Fattinger, Reto Huber</p>
   <figure class="poster-preview">
     <a href="/posters/Poster_StimKids_ESRS_2024.pdf">
-      <img src="/posters/2026-sleep-europe-mwt2.webp" alt="Poster: Effects of phase-targeted auditory stimulation on non-REM sleep EEG activity in healthy children" width="1600" height="2264" loading="lazy" decoding="async">
+      <img src="/posters/Poster_StimKids_ESRS_2024.webp" alt="Poster: Effects of phase-targeted auditory stimulation on non-REM sleep EEG activity in healthy children" width="1600" height="2264" loading="lazy" decoding="async">
     </a>
     <figcaption><a href="/Poster_StimKids_ESRS_2024.pdf">View poster PDF</a></figcaption>
   </figure>
