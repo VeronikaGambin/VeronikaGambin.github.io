@@ -103,6 +103,15 @@ Investigation of the impact of closed-loop down-phase targeted stimulation durin
 ## Posters
 
 <div class="home-poster">
+  <a class="home-poster-thumbnail" href="/posters/#sleep-europe-2026-mwt2">
+    <img src="/posters/2026-sleep-europe-mwt2-thumb.webp" alt="Poster preview: A novel driving simulation-based wakefulness test: Preliminary comparison with the standard maintenance of wakefulness test in healthy adults" width="360" height="509" loading="lazy" decoding="async">
+  </a>
+  <div class="home-poster-info">
+    <p><strong><a href="/posters/#sleep-europe-2026-mwt2">A novel driving simulation-based wakefulness test: Preliminary comparison with the standard maintenance of wakefulness test in healthy adults</a></strong></p>
+    <p>Sleep Europe 2026 · Oct. 2026 · Maastricht, Netherlands</p>
+  </div>
+</div>
+<div class="home-poster">
   <a class="home-poster-thumbnail" href="/posters/#sleep-europe-2026-adhd1">
     <img src="/posters/2026-sleep-europe-adhd1-thumb.webp" alt="Poster preview: The Impact of Stimulant &quot;Drug Holidays&quot; on Driving Performance in Adults with ADHD: Preliminary Results from a Simulated Driving Trial" width="360" height="509" loading="lazy" decoding="async">
   </a>
@@ -122,16 +131,6 @@ Investigation of the impact of closed-loop down-phase targeted stimulation durin
   </div>
 </div>
 
-<div class="home-poster">
-  <a class="home-poster-thumbnail" href="/posters/#sleep-europe-2026-mwt2">
-    <img src="/posters/2026-sleep-europe-mwt2-thumb.webp" alt="Poster preview: A novel driving simulation-based wakefulness test: Preliminary comparison with the standard maintenance of wakefulness test in healthy adults" width="360" height="509" loading="lazy" decoding="async">
-  </a>
-  <div class="home-poster-info">
-    <p><strong><a href="/posters/#sleep-europe-2026-mwt2">A novel driving simulation-based wakefulness test: Preliminary comparison with the standard maintenance of wakefulness test in healthy adults</a></strong></p>
-    <p>Sleep Europe 2026 · Oct. 2026 · Maastricht, Netherlands</p>
-  </div>
-</div>
-
 [→ View all posters](/posters/)
 
 ## Conference Presentations
@@ -141,6 +140,10 @@ Investigation of the impact of closed-loop down-phase targeted stimulation durin
 - Jun. 2026: **Oral presentation**, Swiss Society of Legal Medicine (SGRM) Annual Meeting, Chur, Switzerland.
 - Jun. 2025: **Oral presentation**, Swiss Society of Legal Medicine (SGRM) Annual Meeting, Locarno, Switzerland.
 - Sep. 2024: **[Poster](/posters/#sleep-europe-2026)**, Sleep Europe 2024: 27th Congress of the European Sleep Research Society (ESRS), Seville, Spain
+- Dec. 2022: **Oral presentation**, 6th Saint Petersburg Winter Workshop on Experimental Studies of Speech and Language: Night Whites 2022, St Petersburg, Russia.
+- Aug. 2021: **Oral presentation**, 3rd International Conference Volga Neuroscience Meeting 2021, Nizhny Novgorod, Russia.
+- Sep. 2020: **Oral presentation**, Психология XXI века: методология психологической науки и практики 2020, St Petersburg, Russia. 
+- Dec. 2020: **Oral presentation**, Ананьевские чтения – 2020. : Психология служебной деятельности: достижения и перспективы развития, в честь 75-летия Победы в Великой Отечественной войне 1941–1945 гг, St Petersburg, Russia
 
 ## Work Experience
 
