@@ -130,7 +130,6 @@ Investigation of the impact of closed-loop down-phase targeted stimulation durin
     <p>Sleep Europe 2026 · Oct. 2026 · Maastricht, Netherlands</p>
   </div>
 </div>
-
 [→ View all posters](/posters/)
 
 ## Conference Presentations
