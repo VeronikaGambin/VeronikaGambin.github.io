@@ -103,15 +103,6 @@ Investigation of the impact of closed-loop down-phase targeted stimulation durin
 ## Posters
 
 <div class="home-poster">
-  <a class="home-poster-thumbnail" href="/posters/#sleep-europe-2026-mwt2">
-    <img src="/posters/2026-sleep-europe-mwt2-thumb.webp" alt="Poster preview: A novel driving simulation-based wakefulness test: Preliminary comparison with the standard maintenance of wakefulness test in healthy adults" width="360" height="509" loading="lazy" decoding="async">
-  </a>
-  <div class="home-poster-info">
-    <p><strong><a href="/posters/#sleep-europe-2026-mwt2">A novel driving simulation-based wakefulness test: Preliminary comparison with the standard maintenance of wakefulness test in healthy adults</a></strong></p>
-    <p>Sleep Europe 2026 · Oct. 2026 · Maastricht, Netherlands</p>
-  </div>
-</div>
-<div class="home-poster">
   <a class="home-poster-thumbnail" href="/posters/#sleep-europe-2026-adhd1">
     <img src="/posters/2026-sleep-europe-adhd1-thumb.webp" alt="Poster preview: The Impact of Stimulant &quot;Drug Holidays&quot; on Driving Performance in Adults with ADHD: Preliminary Results from a Simulated Driving Trial" width="360" height="509" loading="lazy" decoding="async">
   </a>
@@ -130,6 +121,17 @@ Investigation of the impact of closed-loop down-phase targeted stimulation durin
     <p>Sleep Europe 2026 · Oct. 2026 · Maastricht, Netherlands</p>
   </div>
 </div>
+
+<div class="home-poster">
+  <a class="home-poster-thumbnail" href="/posters/#sleep-europe-2026-mwt2">
+    <img src="/posters/2026-sleep-europe-mwt2-thumb.webp" alt="Poster preview: A novel driving simulation-based wakefulness test: Preliminary comparison with the standard maintenance of wakefulness test in healthy adults" width="360" height="509" loading="lazy" decoding="async">
+  </a>
+  <div class="home-poster-info">
+    <p><strong><a href="/posters/#sleep-europe-2026-mwt2">A novel driving simulation-based wakefulness test: Preliminary comparison with the standard maintenance of wakefulness test in healthy adults</a></strong></p>
+    <p>Sleep Europe 2026 · Oct. 2026 · Maastricht, Netherlands</p>
+  </div>
+</div>
+
 [→ View all posters](/posters/)
 
 ## Conference Presentations
